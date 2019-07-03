@@ -6,9 +6,5 @@
 
     <groupId>com.javaproject</groupId>
     <artifactId>project1</artifactId>
-    <configuration>
-         <source>1.8</source>
-         <target>1.8</target>
-    </configuration>
     <version>1.0-SNAPSHOT</version>
 </project>
